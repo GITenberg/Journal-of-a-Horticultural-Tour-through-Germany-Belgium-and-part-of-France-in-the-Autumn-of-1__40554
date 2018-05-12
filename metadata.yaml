@@ -1,0 +1,29 @@
+_repo: Journal-of-a-Horticultural-Tour-through-Germany-Belgium-and-part-of-France-in-the-Autumn-of-1__40554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forbes, James
+    birthdate: 1773
+    deathdate: 1861
+    gutenberg_agent_id: '40694'
+    url: http://www.gutenberg.org/2009/agents/40694
+description: ''
+gutenberg_issued: '2012-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40554'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Cactus'
+- !lcsh 'Botanical gardens -- Europe'
+title: "Journal of a Horticultural Tour through Germany, Belgium, and part of France,\
+  \ in the Autumn of 1835\r\nTo which is added, a Catalogue of the different Species\
+  \ of Cacteæ in the Gardens at Woburn Abbey."
+url: http://www.gutenberg.org/ebooks/40554
